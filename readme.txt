@@ -23,14 +23,12 @@ How to use it?
 Just install and forget.
 
 
-You can also contribute to the plugin source code here:-
-GITHUB
+You can also contribute to the plugin source code on GitHub here:-
+https://github.com/delhideveloper/Wordpress-Plugin-Show-On-Scroll
 
 
 Just read this article aboout the plugin:
-[Show On Scroll : Wordpress Plugin Developed by Delhi Developer](http://delhideveloper.com/divi-scroll-reveal-plugin-wordpress/)
+[Show On Scroll : A Free Wordpress Plugin Developed by Delhi Developer](https://delhideveloper.com/wordpress-plugin-show-on-scroll/)
 
 
 Developed by: [Delhi Developer](https://delhideveloper.com/) : [Website Designing Company in Delhi](https://delhideveloper.com/)
-
-
